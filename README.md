@@ -9,3 +9,4 @@ A collection of Functions for AWS Lambda
 - [Slack Police](https://medium.com/@farski/learn-aws-api-gateway-with-the-slack-police-ca8d636e9fc0#.8txdk7mph) - Javascript - Using API Gateway & Lambda to create a "ok lets move this coversation" slash command in Slack.
 - [Slack Channel as a AWS SNS Subscriber](https://medium.com/cohealo-engineering/how-set-up-a-slack-channel-to-be-an-aws-sns-subscriber-63b4d57ad3ea#.8wdbdzllh) - Javascript - Ping Slack when an Elastic Beanstalk deploy happens via SNS & Lambda
 - [Cloudwatch Alarms to Slack](http://notes.webutvikling.org/send-aws-cloudwatch-alarms-to-slack/) - Javascript (really the Lambda itself is this gist: https://gist.github.com/tomfa/b33f768908b0a83987d26f269e377e95).  Send Cloudwatch alerts to a Slack channel
+- [Slack Integration Blueprints for AWS Lambda](https://aws.amazon.com/blogs/aws/new-slack-integration-blueprints-for-aws-lambda/) - Python & Others - using AWS Lambda to power chatops

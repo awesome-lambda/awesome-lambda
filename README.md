@@ -1,5 +1,17 @@
 # awesome-lambda
-A collection of Functions for AWS Lambda
+A collection of useful Tools and Functions for AWS Lambda
+
+## Tools/Frameworks
+
+In this section, we will note the languages that it supports, how it differs from the other frameworks, and the language it is written in.
+
+- [Apex](http://apex.run/) - Go/Java/JavaScript/Python/(Others) - Hookable build process, supports deploying infrastructure using Terraform - Go
+- [Chalice](https://github.com/awslabs/chalice) - Python2.7 - Written by AWS, still in preview - Python
+- [Gordon](https://github.com/jorgebastida/gordon) - Go/Java/JavaScript/Python/Scala - Automatically packages dependencies, integration with pip/npm/gradle, Deploys resources using CloudFormation - Python
+- [Serverless](https://github.com/serverless/serverless) - Java/JavaScript/Python/Scala - Lots of Plugins, Deploys resources using CloudFormation - JavaScript
+- [Zappa](https://github.com/Miserlou/Zappa) - Python
+
+## Functions
 
 - [WAV to MP3 Email Transcoder](https://github.com/jrstarke/email-audio-convert) - Python - Converts WAV attachments to MP3 before forwarding them
 - [File Based AWS WAF Updater](https://github.com/SilkStart/lambda-functions/tree/master/waf-file-based-ip-set) - Python - Updates a WAF list based on changes to a block file

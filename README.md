@@ -12,6 +12,7 @@ In this section, we will note the languages that it supports, how it differs fro
 - [Gordon](https://github.com/jorgebastida/gordon) - Go/Java/JavaScript/Python/Scala - Automatically packages dependencies, integration with pip/npm/gradle, Deploys resources using CloudFormation - Python
 - [Serverless](https://github.com/serverless/serverless) - Java/JavaScript/Python/Scala - Lots of Plugins, Deploys resources using CloudFormation - JavaScript
 - [Zappa](https://github.com/Miserlou/Zappa) - Python
+- [Backand](https://www.backand.com) - Node.JS/JavaScript - A serverless development platform built to make AWS Lambda easier. Create your own Lambda functions, or connect your AWS account to use your Lambda functions in the Lambda Launcher tool, providing easy access to running your Lambda functions
 
 
 ## Reference Architectures
@@ -42,3 +43,5 @@ In this section, we will note the languages that it supports, how it differs fro
 - [Express Application Example](https://github.com/awslabs/aws-serverless-express) - JavaScript - A Library and example on how to run an Express application on Lambda
 - [CRUD Example](https://github.com/awslabs/aws-serverless-crud-sample) - JavaScript - Mobile Backend for movies Database
 - [Configuration Management](https://github.com/awslabs/lambda-runcommand-configuration-management) - Python - Execute RunCommand from Lambda to perform SSHless Server Configuration Management
+- [Alexa skill for running Lambda functions](https://github.com/backand/alexa_function_runner_skill) - Node.js - Allows for execution of arbitrary Lambda functions using Backand.
+- [Alexa restaurant lambda skill](https://github.com/backand/alexa_lambda_skill_demo) - Node.js - Three Lambda functions that can be used to implement a simple restaurant-related Alexa conversation. Hits Yelp and OpenTable APIs.

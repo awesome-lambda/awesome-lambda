@@ -45,3 +45,4 @@ In this section, we will note the languages that it supports, how it differs fro
 - [Configuration Management](https://github.com/awslabs/lambda-runcommand-configuration-management) - Python - Execute RunCommand from Lambda to perform SSHless Server Configuration Management
 - [Alexa skill for running Lambda functions](https://github.com/backand/alexa_function_runner_skill) - Node.js - Allows for execution of arbitrary Lambda functions using Backand.
 - [Alexa restaurant lambda skill](https://github.com/backand/alexa_lambda_skill_demo) - Node.js - Three Lambda functions that can be used to implement a simple restaurant-related Alexa conversation. Hits Yelp and OpenTable APIs.
+- [PBKDF2 hash Validator](http://dchua.com/2016/03/22/writing-a-serverless-python-microservice-with-aws-lambda-and-aws-api-gateway/) - More of a tutorial than a real Lambda example, but gives a good overview of putting a lambda behind API Gateway to quickly build a very scalable web API.

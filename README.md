@@ -7,7 +7,6 @@ A collection of useful Tools and Functions for AWS Lambda
 In this section, we will note the languages that it supports, how it differs from the other frameworks, and the language it is written in.
 
 - [AWS Serverless Application Model](http://docs.aws.amazon.com/lambda/latest/dg/deploying-lambda-apps.html#serverless_app) - Natively supported with CloudFormation
-- [Apex](http://apex.run/) - Go/Java/JavaScript/Python/(Others) - Hookable build process, supports deploying infrastructure using Terraform - Go
 - [Chalice](https://github.com/awslabs/chalice) - Python2.7 - Written by AWS, still in preview - Python
 - [Gordon](https://github.com/jorgebastida/gordon) - Go/Java/JavaScript/Python/Scala - Automatically packages dependencies, integration with pip/npm/gradle, Deploys resources using CloudFormation - Python
 - [Serverless](https://github.com/serverless/serverless) - Java/JavaScript/Python/Scala - Lots of Plugins, Deploys resources using CloudFormation - JavaScript
